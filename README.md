@@ -9,6 +9,6 @@ http://blog.csdn.net/u012422440/article/details/52155924
 
 
 AndroidStudio使用技巧
-自定义模板 http://blog.csdn.net/lmj623565791/article/details/51635533
+自定义模板 http://blog.csdn.net/xjbclz/article/details/54178224
 
 AndroidStudio插件
