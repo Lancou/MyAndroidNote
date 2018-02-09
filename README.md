@@ -13,3 +13,8 @@ AndroidStudio使用技巧
 tools 妙用 http://mp.weixin.qq.com/s/wTOyYuMqkX9ezNvbixXquQ
 
 AndroidStudio插件
+
+
+开源项目：
+1、AndroidGodEye https://github.com/Kyson/AndroidGodEye/
+  可以在PC浏览器中实时监控Android数据指标（比如cpu、内存、卡顿、内存泄漏等等）的工具，你可以通过wifi/usb连接手机和pc，通过pc浏览器实时监控手机性能，而且提供了api供开发者在release阶段进行数据上报。
