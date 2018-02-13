@@ -4,6 +4,9 @@
 
 自定义View 
 
+组合动画初级
+https://www.jianshu.com/p/138ad32540ce
+
 Android Span 进阶
 http://blog.csdn.net/u012422440/article/details/52155924
 
