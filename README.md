@@ -10,6 +10,7 @@ https://www.jianshu.com/p/138ad32540ce
 Android Span 进阶
 http://blog.csdn.net/u012422440/article/details/52155924
 
+![logo](https://github.com/Lancou/MyAndroidNote/blob/master/photos/line_lufei.jpg)
 
 AndroidStudio使用技巧
 自定义模板 http://blog.csdn.net/xjbclz/article/details/54178224
