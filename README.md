@@ -34,3 +34,10 @@ SparseArray https://www.cnblogs.com/RGogoing/p/5095168.html
 
 开源框架使用
  Fresco  http://www.cnblogs.com/RGogoing/p/6208171.html
+
+
+
+UI适配篇
+多用constrainlayout
+Android 屏幕适配方案（百分比） http://blog.csdn.net/buaaroid/article/details/51536603
+使用ConstraintLayout 替代LinearLayout、RelativeLayout和PercentLayout http://blog.csdn.net/crazymo_/article/details/78095886
