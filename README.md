@@ -45,6 +45,7 @@ Android 屏幕适配方案（百分比） http://blog.csdn.net/buaaroid/article/
 
 ![logo](https://github.com/Lancou/MyAndroidNote/blob/master/photos/line_lufei.jpg)
 ## 性能优化
+[大纲](https://blog.csdn.net/chenliguan/article/details/53495153)
 systrace
 Battery Historian
 [Android性能优化之提高App启动速度和Splash页面设计](https://blog.csdn.net/chenliguan/article/details/53997436)
