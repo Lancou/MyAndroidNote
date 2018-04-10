@@ -38,12 +38,12 @@ Java面试题大纲为以下内容（绝大部分）：
 - 11.多线程，并发及线程基础
 
 1. Java特性 
-（1.1）对java多态的理解 
+（1.1） 对java多态的理解 
 https://www.jianshu.com/p/8cfb92ecaabe 
 http://www.cnblogs.com/hupp/p/4854918.html 
 此处延伸《动态绑定》： 
 http://hxraid.iteye.com/blog/428891 
-（1.2）Java中实现多态的机制是什么？ 
+（1.2） Java中实现多态的机制是什么？ 
 https://www.jianshu.com/p/8cfb92ecaabe 
 http://www.cnblogs.com/hupp/p/4854918.html
 
