@@ -37,7 +37,7 @@ Java面试题大纲为以下内容（绝大部分）：
 - 10.Java IO 与 NIO 
 - 11.多线程，并发及线程基础
 
-1.Java特性 
+1. Java特性 
 （1.1）对java多态的理解 
 https://www.jianshu.com/p/8cfb92ecaabe 
 http://www.cnblogs.com/hupp/p/4854918.html 
@@ -47,7 +47,7 @@ http://hxraid.iteye.com/blog/428891
 https://www.jianshu.com/p/8cfb92ecaabe 
 http://www.cnblogs.com/hupp/p/4854918.html
 
-2.字符串String、数组、数据类型转换 
+2. 字符串String、数组、数据类型转换 
 （2.1）Java中String的了解 
 https://www.jianshu.com/p/2f209af80f84 
 （2.2）String，Stringbuffer，Stringbuilder三者的区别 
@@ -63,7 +63,7 @@ http://blog.csdn.net/never_cxb/article/details/47204485
 https://www.cnblogs.com/liuling/archive/2013/05/05/intAndInteger.html 
 https://www.jianshu.com/p/08010144d40f
 
-3.Java各方面基础 
+3. Java各方面基础 
 （3.1）java中==和equals和hashCode的区别 
 http://blog.csdn.net/hla199106/article/details/46907725 
 （3.2）Object类的equal和hashCode方法重写，为什么？ 
@@ -114,7 +114,7 @@ https://www.jianshu.com/p/506dcd94d4f9
 https://www.jianshu.com/p/2f518a4a4c2b 
 https://www.jianshu.com/p/861223789d53
 
-4.抽象类与接口 
+4. 抽象类与接口 
 （4.1）抽象类和接口区别 
 https://www.jianshu.com/p/038f0b356e9a 
 https://www.jianshu.com/p/612e2d2a8a78 
@@ -130,7 +130,7 @@ PS：（4.1）-（4.4）都是一类东西，基本上过一遍详细的文章�
 （4.6）父类的静态方法能否被子类重写 
 https://www.jianshu.com/p/df43f5500ea3
 
-5.JVM、垃圾回收（GC） 
+5. JVM、垃圾回收（GC） 
 （5.1）java虚拟机的工作原理 
 https://www.cnblogs.com/lishun1005/p/6019678.html 
 （5.2）java虚拟机和Dalvik虚拟机的区别 
@@ -142,7 +142,7 @@ https://www.jianshu.com/p/778dd3848196
 这个已经有点深入了，建议从虚拟机入手，先了解清楚。 
 https://www.jianshu.com/p/355ae3bcec41
 
-6.Java数据结构和算法 
+6. Java数据结构和算法 
 算法在这里就没必要收集面试题了，这个不是一下子能掌握的东西，需要题目的自己百度去背简单的几个算法。 
 掌握算法需要一个过程，我建议可以去leetcode、lintcode等刷提网站练习。 
 （6.1）常用数据结构简介 
@@ -215,7 +215,7 @@ http://blog.csdn.net/guyuealian/article/details/51119499
 （6.32）合并多个单有序链表（假设都是递增的） 
 https://www.jianshu.com/p/a3d5cd6c3ae2
 
-7.设计模式 
+7. 设计模式 
 （7.1）在Java中，什么时候用重载，什么时候用重写？ 
 http://blog.csdn.net/qq_33642117/article/details/51920354 
 （7.2）Java中什么是单例设计模式？用Java写出线程安全的单例 
@@ -224,7 +224,7 @@ http://blog.csdn.net/cselmu9/article/details/51366946
 （7.3）使用工厂模式最主要的好处是什么？你在哪里使用？ 
 http://blog.csdn.net/lee576/article/details/1549910
 
-8.泛型与枚举 
+8. 泛型与枚举 
 （8.1）说一下泛型原理，并举例说明 
 https://www.jianshu.com/p/ddbe1db509da 
 （8.2）泛型中extends和super的区别 
@@ -233,7 +233,7 @@ https://www.zhihu.com/question/20400700
 https://www.jianshu.com/p/ccdfc9bba821 
 https://www.cnblogs.com/fengmingyue/p/6087031.html
 
-9.常用网络协议 
+9. 常用网络协议 
 （9.1）HTTP响应的结构是怎么样的？ 
 http://liuwangshu.cn/application/network/1-http.html 
 （9.2）什么是cookie？session和cookie有什么区别 
@@ -243,12 +243,12 @@ http://blog.csdn.net/guyuealian/article/details/52535294
 （9.4）什么是TCP协议？UDP协议？区别？ 
 http://blog.csdn.net/qq_18425655/article/details/51955674
 
-10.Java IO 与 NIO 
+10. Java IO 与 NIO 
 （10.1）说说io和nio的理解，区别？ 
 这个作者写了12篇NIO的文章： 
 http://www.importnew.com/18763.html
 
-11.多线程，并发及线程基础 
+11. 多线程，并发及线程基础 
 关于多线程请先过一遍这篇文章： 
 https://www.jianshu.com/p/40d4c7aebd66 
 （11.1）开启线程的三种方式？ 
