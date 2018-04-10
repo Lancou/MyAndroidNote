@@ -1,7 +1,7 @@
-1.Activity的启动过程（不要回答生命周期） 
+1. Activity的启动过程（不要回答生命周期） 
 http://blog.csdn.net/luoshengyang/article/details/6689748
 
-2.Activity的启动模式以及使用场景 
+2. Activity的启动模式以及使用场景 
 （1）manifest设置，（2）startActivity flag 
 http://blog.csdn.net/CodeEmperor/article/details/50481726 
 此处延伸：栈(First In Last Out)与队列(First In First Out)的区别
