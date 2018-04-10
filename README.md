@@ -2,7 +2,7 @@
 
 
 ## 知识体系图
-![](https://img-blog.csdn.net/20170528132642034?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaHVhbmdxaWxpMTMxNA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](https://github.com/lacuz/MyAndroidNote/blob/master/photos/20170528132642034.png)
 
 ## 自定义View 
 
