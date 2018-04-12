@@ -1,5 +1,7 @@
 ![logo](https://github.com/Lancou/MyAndroidNote/blob/master/photos/1495244808_388263.png)
 
+##最新资讯
+AS更新：http://tools.android.com/recent
 
 ## 知识体系图
 ![](https://github.com/lacuz/MyAndroidNote/blob/master/photos/20170528132642034.png)
