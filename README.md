@@ -1,6 +1,6 @@
 ![logo](https://github.com/Lancou/MyAndroidNote/blob/master/photos/1495244808_388263.png)
 
-##最新资讯
+## 最新资讯
 [AS更新](http://tools.android.com/recent)
 [获取bitmap主题色](https://developer.android.com/reference/android/support/v7/graphics/Palette.html)
 [Android Blog 周刊](http://www.androidblog.cn/)
