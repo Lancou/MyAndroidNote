@@ -19,5 +19,5 @@
   Kotlin可与Java进行100％的互操作，允许在Kotlin应用程序中使用所有现有的 Android 库 ，Kotlin的标准库更多的是对Java库的扩展。
 
 
-###　操作符：run、with、let、also、apply、takeIf、takeUnless、repeat
-［］！(https://img-blog.csdn.net/20180226142847967?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTG92ZTY2Nzc2Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+###　![操作符：run、with、let、also、apply、takeIf、takeUnless、repeat](https://blog.csdn.net/Love667767/article/details/79376813)
+![](https://img-blog.csdn.net/20180226142847967?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTG92ZTY2Nzc2Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
